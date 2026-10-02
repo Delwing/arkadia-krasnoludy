@@ -3,8 +3,9 @@
 
 
 "@arkadia/plugin-types@https://delwing.github.io/arkadia-web-client-extension/arkadia-plugin-types.tgz":
-  version "1.0.0-20260914210830"
-  resolved "https://delwing.github.io/arkadia-web-client-extension/arkadia-plugin-types.tgz#bee226a9c5c02dfde701edc3ab0c6ed1adc4c5a3"
+  version "1.0.0-20261002121526"
+  resolved "https://delwing.github.io/arkadia-web-client-extension/arkadia-plugin-types.tgz#a0cd08462d5c51056bc3503dd1c869aec7dfe172"
+  integrity sha512-nqduJ8/DN16JlZzPfOu6dcRgADBIFrhCepdGQv/0XqgczPRa7Fw2rbsmP/674+NbuBezalacy6wFMm2B0KPaVw==
 
 "@esbuild/aix-ppc64@0.24.2":
   version "0.24.2"
