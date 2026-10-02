@@ -1,5 +1,5 @@
 /**
- * Podpowiedzi emotek Krasnoludow z Gor - Tab completion for the guild emotes of Krasnoludy z Twierdz Gor
+ * Podpowiedzi emotek Krasnoludow z Gor Starego Swiata - Tab completion for the guild emotes of Krasnoludy z Twierdz Gor
  * Starego Swiata (the `gp*` commands).
  *
  * Every emote goes into the command line's Tab completion. The client completes
@@ -12,7 +12,7 @@
 
 import type { PluginApi, PluginInfo } from '@arkadia/plugin-types';
 
-const PLUGIN_NAME = 'Podpowiedzi emotek Krasnoludow z Gor';
+const PLUGIN_NAME = 'Podpowiedzi emotek Krasnoludow z Gor Starego Swiata';
 const PLUGIN_VERSION = '1.0.0';
 const PLUGIN_AUTHOR = 'Dargoth';
 const PLUGIN_DESCRIPTION =

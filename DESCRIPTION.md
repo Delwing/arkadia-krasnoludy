@@ -1,4 +1,4 @@
-# Podpowiedzi emotek Krasnoludow z Gor
+# Podpowiedzi emotek Krasnoludow z Gor Starego Swiata
 
 Podpowiedzi dla emotek Krasnoludow z Twierdz Gor Starego Swiata. Wpisz
 poczatek komendy i wcisnij **Tab** - plugin dopelni ja do pelnej emotki.
@@ -12,7 +12,7 @@ poczatek komendy i wcisnij **Tab** - plugin dopelni ja do pelnej emotki.
 
 ## Instalacja
 
-1. W menedzerze pluginow Arkadia Web Client dodaj plugin **Podpowiedzi emotek Krasnoludow z Gor**.
+1. W menedzerze pluginow Arkadia Web Client dodaj plugin **Podpowiedzi emotek Krasnoludow z Gor Starego Swiata**.
 2. Wpisz `gp` i wcisnij Tab, zeby sprawdzic, czy dziala.
 
 ## Prywatnosc
