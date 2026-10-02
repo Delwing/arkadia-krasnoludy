@@ -1,0 +1,7 @@
+{
+  "name": "Krasnoludy",
+  "version": "1.0.0",
+  "author": "Dargoth",
+  "description": "Podpowiedzi (Tab) dla emotek Krasnoludow z Twierdz Gor Starego Swiata.",
+  "entryPoint": "plugin.ts"
+}
